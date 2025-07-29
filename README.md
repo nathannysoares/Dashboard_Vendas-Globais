@@ -41,6 +41,6 @@ Abra com o Power BI Desktop para explorar os filtros e dados.
 
 ## 👩‍💻 Sobre
 
-Projeto desenvolvido por Nathanny Soares durante o curso de formação em Data Science.
+Projeto desenvolvido por Nathanny Soares durante o curso de Power BI para Data Science.
 
 [🔗 LinkedIn](https://www.linkedin.com) • [💻 GitHub](https://github.com/nathannysoares)
